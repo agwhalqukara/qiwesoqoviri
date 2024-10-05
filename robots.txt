@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qiwesoqoviri.pages.dev/sitemap.xml
